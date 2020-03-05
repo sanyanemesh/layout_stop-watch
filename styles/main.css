@@ -17,17 +17,17 @@ body {
     left: 49%;
     width: 30px;
     height: 30px;
-    background-color: red;
+    background-color: #7ba1ac;
     border-radius: 50%;
     z-index: 1; }
   .clock__minute {
-    background-color: black;
+    background-color: #c45c5c;
     height: 150px;
     -webkit-animation: anim 3600s infinite linear;
             animation: anim 3600s infinite linear;
     transform-origin: bottom; }
   .clock__second {
-    background-color: red;
+    background-color: #7ba1ac;
     -webkit-animation: anim 60s infinite linear;
             animation: anim 60s infinite linear;
     transform-origin: bottom; }
